@@ -1,2 +1,5 @@
 # FlaunaFLixx
-It is a web application that aids tourists and citizens in wildlife spotting, allows for community- driven data collection, and helps in monitoring invasive species in India.
+FlaunaFLixx is an innovative web application designed to aid tourists and citizens in wildlife spotting, fostering community-driven data collection, and monitoring invasive species across India. This platform leverages a dataset that contains all the details of species and the locations they are found in India and another dataset that contains a list of all the invasive species and the areas where they pose a danger to the local Flora and fauna. It makes it easier for the users to log sightings, and share their observations in real-time. By engaging the community in wildlife monitoring, FlaunaFLixx not only enhances the wildlife experience for enthusiasts but also provides valuable data for researchers and conservationists working to protect India's diverse ecosystems. Through its collaborative approach, FlaunaFLixx aims to create a robust network of wildlife watchers dedicated to preserving natural habitats and biodiversity.
+
+The features that can be implemented in the future to make it more appealing and interesting include community building, reward system and coin collection, a species identification tool and event organising forums. 
+
